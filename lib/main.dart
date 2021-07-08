@@ -6,10 +6,10 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('This is my top bar'),
-          backgroundColor: Colors.blueGrey[900],
+          title: Text('This is my top bar test'),
+          backgroundColor: Colors.blueGrey[800],
         ),
-        backgroundColor: Colors.blueGrey[300],
+        backgroundColor: Colors.blueGrey[400],
       ),
     ),
   );
