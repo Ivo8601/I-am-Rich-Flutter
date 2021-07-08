@@ -6,7 +6,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('This is my top bar text'),
+          title: Text('This is my top bar'),
           backgroundColor: Colors.blueGrey[900],
         ),
         backgroundColor: Colors.blueGrey[300],
